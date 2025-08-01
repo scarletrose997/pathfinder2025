@@ -1192,20 +1192,9 @@
 			(uuid "470a5f64-52f6-4bdf-8864-ac37d3d0386e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 		(model "C:/Users/konje/Downloads/b23b2af1c99153fe488ddd7cfa8304c6e30416d8_mx_.step"
 			(offset
-				(xyz 4.5 2 4.5)
+				(xyz 4.75 2 5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -2299,31 +2288,20 @@
 			(uuid "148ff768-8207-41cf-a967-4c45ac5401fb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 		(model "C:/Users/konje/Downloads/b23b2af1c99153fe488ddd7cfa8304c6e30416d8_mx_.step"
 			(offset
-				(xyz 5 2.5 4.5)
+				(xyz 4.75 2 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 180)
+				(xyz -90 -0 -180)
 			)
 		)
 		(model "C:/Users/konje/Downloads/c990debf2e87af77aff33d4675e1050119eaf0e5_dsa_keycap_cherrymx.step"
 			(offset
-				(xyz -2 -4.5 8.5)
+				(xyz -3 -5.5 8.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -3575,20 +3553,9 @@
 			(uuid "a12ec743-637c-4308-b984-232f2c1d8163")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 		(model "C:/Users/konje/Downloads/b23b2af1c99153fe488ddd7cfa8304c6e30416d8_mx_.step"
 			(offset
-				(xyz 4.5 2.5 6.5)
+				(xyz 4.75 2 5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -3599,7 +3566,7 @@
 		)
 		(model "C:/Users/konje/Downloads/c990debf2e87af77aff33d4675e1050119eaf0e5_dsa_keycap_cherrymx.step"
 			(offset
-				(xyz -3 -5 9.5)
+				(xyz -3 -5 8.5)
 			)
 			(scale
 				(xyz 1 1 1)
